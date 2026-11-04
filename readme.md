@@ -11,25 +11,28 @@
 </div>
 
 ---
-
 ## About Me
 
-**Senior Mobile Engineer** with **6+ years** building and shipping **production iOS and Android apps** with **React Native**, **Expo (EAS)**, and **TypeScript**. End-to-end ownership from **mobile architecture** and implementation through **App Store Connect** and **Google Play Console** releases, crash/ANR triage, and release trains.
+**Senior Mobile Engineer** with **7+ years of experience** building and shipping production iOS and Android applications using **React Native, Expo (EAS), Flutter, Dart, and TypeScript**. Experienced in cross-platform mobile architecture, native integrations, performance optimization, and end-to-end app delivery — from initial development through App Store Connect and Google Play Console releases, crash/ANR triage, and ongoing production maintenance.
 
-- Architect and deliver **React Native** / **Expo** apps with **React Navigation**, **Expo Router**, and **Hermes** performance tuning
-- Ship **consumer and B2B mobile** products with scalable state, offline resilience, and maintainable codebases
-- Lead **App Store** and **Google Play** submissions: signing, metadata, review compliance, **TestFlight**, and staged rollouts
-- Partner with backend teams on **Firebase**, **Supabase**, and **BFF APIs** for secure, real-time mobile experiences
+- Architect and deliver **React Native / Expo** applications using React Navigation, Expo Router, TypeScript, and Hermes performance tuning.
+- Build cross-platform applications with **Flutter and Dart**, using reusable widgets, clean architecture, and maintainable state management.
+- Ship consumer and B2B mobile products with scalable state management, offline resilience, and reliable API integrations.
+- Lead App Store and Google Play submissions, including signing, metadata, review compliance, TestFlight, and staged rollouts.
+- Integrate Firebase, Supabase, and custom BFF APIs to deliver secure, real-time mobile experiences.
+- Work with native iOS (Swift) and Android (Kotlin) integrations when platform-specific functionality is required.
 
 ---
 
 ## Core Mobile Engineering
 
-- **Real-time:** WebSockets, **Firebase Realtime Database** / **Firestore** listeners, **Supabase Realtime**, live maps, fleet dashboards, and sync-heavy UIs
-- **Push notifications:** **FCM**, **APNs**, **Expo Notifications**, deep links, notification channels, and engagement campaigns
-- **Payments & monetization:** **Stripe**, in-app purchases, subscriptions, receipt validation, and subscription lifecycle flows
-- **Backend & data:** **Firebase** (Auth, Firestore, Cloud Functions), **Supabase** (Auth, Postgres, RLS, Edge Functions)
-- **Release & quality:** **EAS Build** / **EAS Submit**, **OTA updates**, feature flags, **Detox** / **Jest**, and production monitoring
+- **Cross-Platform Development:** React Native, Expo, Flutter, Dart, TypeScript, reusable components, responsive layouts, and shared business logic.
+- **Architecture & State Management:** React Navigation, Expo Router, Provider, Riverpod, Bloc/Cubit, Redux Toolkit, and maintainable application architecture.
+- **Real-Time:** WebSockets, Firebase Realtime Database / Firestore listeners, Supabase Realtime, live maps, fleet dashboards, and sync-heavy UIs.
+- **Push Notifications:** FCM, APNs, Expo Notifications, deep links, notification channels, and engagement campaigns.
+- **Payments & Monetization:** Stripe, in-app purchases, subscriptions, receipt validation, and subscription lifecycle flows.
+- **Backend & Data:** Firebase (Auth, Firestore, Cloud Functions), Supabase (Auth, PostgreSQL, RLS, Edge Functions), and REST APIs.
+- **Release & Quality:** EAS Build / Submit, Flutter build and release workflows, OTA updates, feature flags, Detox, Jest, Flutter testing, and production monitoring.
 
 ---
 
@@ -37,31 +40,34 @@
 
 ### Healthcare — Wellness & Well-being
 
-- **Habit tracking**, streaks, reminders, and personalized wellness dashboards
-- **Nutrition tracking**, meal logging, macros, and meal-plan flows
-- Secure auth patterns, PHI minimization, and audit-friendly flows for health-adjacent products
-- Integrations with device health APIs where product scope requires them
+- Habit tracking, streaks, reminders, and personalized wellness dashboards.
+- Nutrition tracking, meal logging, macros, and meal-plan flows.
+- Secure authentication patterns, PHI minimization, and audit-friendly flows for health-adjacent products.
+- Integrations with device health APIs where product scope requires them.
+- Cross-platform healthcare and wellness experiences using React Native and Flutter.
 
 ### Logistics — Operations & Field Workforce
 
-- **Live GPS tracking**, route visibility, **geofencing**, and background location for fleet and field teams
-- **Timesheets**, clock-in/out, approvals, and payroll-ready time data
-- **Shift scheduling**, dispatch boards, and workforce coordination
-- **Offline-first** field apps with reliable sync when connectivity returns; proof-of-delivery flows
+- Live GPS tracking, route visibility, geofencing, and background location for fleet and field teams.
+- Timesheets, clock-in/out, approvals, and payroll-ready time data.
+- Shift scheduling, dispatch boards, and workforce coordination.
+- Offline-first field applications with reliable synchronization when connectivity returns.
+- Proof-of-delivery flows and real-time operational dashboards.
 
 ---
 
 ## Tech Stack
 
-- **Mobile:** React Native, Expo, Expo Router, native modules, performance tuning, Hermes
-- **Platforms:** iOS (Swift bridges when needed), Android (Kotlin bridges), App Store Connect, Google Play Console
-- **Data & auth:** Firebase, Supabase, PostgreSQL, REST, GraphQL
-- **Supporting:** Node.js / Express or Nest.js for BFF and mobile-backend APIs
+- **Mobile:** React Native, Expo, Expo Router, Flutter, Dart, TypeScript, native modules, performance tuning, Hermes.
+- **Flutter Ecosystem:** Material Design, Cupertino widgets, Provider, Riverpod, Bloc/Cubit, Flutter navigation, platform channels.
+- **Platforms:** iOS (Swift bridges when needed), Android (Kotlin bridges), App Store Connect, Google Play Console.
+- **Data & Authentication:** Firebase, Supabase, PostgreSQL, REST, GraphQL.
+- **Supporting Backend:** Node.js, Express, NestJS, and BFF APIs for mobile applications.
+- **Testing & Deployment:** Jest, Detox, Flutter Test, EAS Build, EAS Submit, TestFlight, Google Play releases, and CI/CD.
 
 ---
 
-**Senior Mobile Engineer** · **React Native** · **Expo** · **TypeScript** · **iOS** · **Android** · **Firebase** · **Supabase** · **Push Notifications** · **FCM** · **APNs** · **Real-Time** · **WebSocket** · **Live Tracking** · **Geolocation** · **In-App Purchase** · **Stripe** · **App Store** · **Google Play** · **EAS** · **CI/CD** · **Healthcare** · **Wellness** · **Habit Tracking** · **Nutrition** · **Logistics** · **Timesheet** · **Scheduling** · **Mobile Architecture** · **Production Releases**
-
+**Senior Mobile Engineer** · **React Native** · **Expo** · **Flutter** · **Dart** · **TypeScript** · **iOS** · **Android** · **Firebase** · **Supabase** · **Push Notifications** · **FCM** · **APNs** · **Real-Time** · **WebSocket** · **Live Tracking** · **Geolocation** · **In-App Purchases** · **Stripe** · **App Store** · **Google Play** · **EAS** · **CI/CD** · **Healthcare** · **Wellness** · **Habit Tracking** · **Nutrition** · **Logistics** · **Timesheets** · **Scheduling** · **Mobile Architecture** · **Production Releases**
 ---
 
 ## Preferred Technicals
