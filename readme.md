@@ -82,7 +82,7 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=react" alt="React" width="65" height="65" />
       <br>React Native
     </td>
     <td align="center" width="96">
@@ -108,11 +108,11 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="65" height="65" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
